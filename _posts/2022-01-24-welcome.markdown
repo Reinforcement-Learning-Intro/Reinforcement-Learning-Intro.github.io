@@ -1,0 +1,8 @@
+---
+layout: default
+title:  "Welcome!"
+date:   2022-01-24
+categories: main
+---
+
+We'll go through [Introduction to Reinforcement Learning - Richard S. Sutton and Andrew G. Barto. Second Edition](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
