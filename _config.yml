@@ -1,14 +1,14 @@
 # Setup
 title:        Intro to RL Reading Group 2022
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      University of Bristol
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       maurock
+  url:        
 
 # Gems
 gems:
