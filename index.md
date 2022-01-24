@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-- [Welcome page](https://reinforcement-learning-intro.github.io/main/2022/01/24/welcome.html)
+- [Hey there, check out our welcome page :)]({% post_url 2022-01-24-welcome %})
 
 ## Sessions
 | Date        | Topic | Summary | Who |
