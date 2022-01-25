@@ -9,7 +9,7 @@ title: {{ site.name }}
 
 | Date |Topic   | Summary | Who |
 |------|--------|---------|-----|
-| 31/01 | Theory: [Week 6 DeepMind course](https://www.youtube.com/watch?v=t9uf9cuogBo&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=6) <br> Exercises: | [Our summary](https://www.notion.so/maurocomi/Lecture-6-Model-Free-Control-789c545797f64542a12110587737e23e) | Mauro |
+| 31/01 | Theory: [Week 6 DeepMind course](https://www.youtube.com/watch?v=t9uf9cuogBo&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=6) <br> Exercises: | [Our summary](https://maurocomi.notion.site/Lecture-6-Model-Free-Control-789c545797f64542a12110587737e23e) | Mauro |
 | 07/02 | Coding: Q-Table learning |  |  |
 
 
