@@ -1,3 +1,8 @@
+# Github Page for the Intro to RL reading session
+University of Bristol 
+
+Link to the website: [https://reinforcement-learning-intro.github.io/](https://reinforcement-learning-intro.github.io/)
+
 # Jekyll Cayman theme
 
 This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
