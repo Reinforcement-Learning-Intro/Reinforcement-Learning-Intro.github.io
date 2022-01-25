@@ -9,10 +9,11 @@ title: {{ site.name }}
 
 | Date |Topic   | Summary | Who |
 |------|--------|---------|-----|
-| 31/01 | Theory: [Lecture 5 DeepMind course](https://www.youtube.com/watch?v=t9uf9cuogBo&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=6) <br> Exercises: |  | Mauro |
+| 31/01 | Theory: [Week 6 DeepMind course](https://www.youtube.com/watch?v=t9uf9cuogBo&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=6) <br> Exercises: | [Our summary](https://www.notion.so/maurocomi/Lecture-6-Model-Free-Control-789c545797f64542a12110587737e23e) | Mauro |
 | 07/02 | Coding: Q-Table learning |  |  |
 
 
 ## Resources
+- [DeepMind x UCL: Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 - [Introduction to Reinforcement Learning, Sutton and Barto, Second Edition](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 - [Simonin Thomas' repo for exercises](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
